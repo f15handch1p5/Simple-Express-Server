@@ -5,5 +5,7 @@ Check out my 'Programming Tutorials' app here: [Programming Tutorials](https://g
 
 ## How To Use:
 - Make sure you have npm installed.
-- Run `node server.js` from within the 'Simple-Express-Server' directory.
+- Navigate to the 'Simple-Express-Server' directory.
+- Run `npm install` to install all the required 3rd party libraries.
+- Run `node server.js` to start the server.
 - Run the programming tutorials iOS app on the simulator.
